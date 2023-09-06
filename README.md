@@ -2,11 +2,11 @@
 
 ![App Logo](/path/to/your/app_logo.png)
 
-**Cards** is an Android app that allows you to play a variety of card games with your friends via iMessage. With this app, you can enjoy games like Cards Against Humanity, Drink or Dare, and many more, all within your iMessage group chat. Additionally, you can play solo by loading a deck and playing on your device.
+**Cards** is an Android app that allows you to play a variety of card games with your friends via iMessage. With this app, you can enjoy games like Cards Against Humanity, Drink or Dare, and many more, all within your iMessage group chat (coming later). Additionally, you can play solo by loading a deck and playing on your device.
 
 ## Features
 
-- **Multiplayer Card Games**: Play card games with your friends in iMessage group chats.
+- **Multiplayer Card Games**: Play card games with your friends by sharing game server links.
 - **Deck Store**: Browse and purchase different card decks to use in the app.
 - **Solo Play**: Enjoy solo gameplay by loading a deck and playing on your own device.
 - **Statistics**: View statistics for your decks, including how many people have the deck, how many times you've used it, and more.
@@ -34,7 +34,7 @@ Once you have installed the app, follow these steps to get started:
 1. Open the app and sign in with your Google Play Games ID or choose a random name generated from a sanitized random selection of dictionary entries.
 2. Browse the Deck Store to purchase or search for decks stored on the Firebase server.
 3. Select a deck to play with and invite friends to join you.
-4. Play card games with your friends within your iMessage group chat or enjoy solo play.
+4. Play card games with your friends within your game server, iMessage group chat or enjoy solo play.
 
 ## Contributing
 
